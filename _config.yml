@@ -1,0 +1,8 @@
+title: Microsoft R for Data Science
+description: Training Materials for R and Microsoft R Server
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
